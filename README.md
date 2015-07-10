@@ -1,8 +1,7 @@
 # appliedfunctionaljs
 Code from presentation on Applied Functional JavaScript
 
-To start:
+To start, install dependencies and check tests:
 
-    npm install jasmine-node -gd
-    npm install underscore -d
+    npm install -d jasmine-node underscore
     jasmine-node spec/
